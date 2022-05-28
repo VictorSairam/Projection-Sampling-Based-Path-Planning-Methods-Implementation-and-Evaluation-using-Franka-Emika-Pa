@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vinayaka/project_ws/devel/.private/ardrone_autonomy/setup.sh

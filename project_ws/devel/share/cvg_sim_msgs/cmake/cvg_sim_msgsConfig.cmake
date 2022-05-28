@@ -1,0 +1,1 @@
+/home/vinayaka/project_ws/devel/.private/cvg_sim_msgs/share/cvg_sim_msgs/cmake/cvg_sim_msgsConfig.cmake

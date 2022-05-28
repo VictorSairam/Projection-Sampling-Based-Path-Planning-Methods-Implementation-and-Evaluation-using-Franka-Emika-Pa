@@ -1,0 +1,4 @@
+Symlinking /home/vinayaka/project_ws/devel/lib/libhector_quadrotor_interface.so
+Symlinking /home/vinayaka/project_ws/devel/lib/pkgconfig/hector_quadrotor_interface.pc
+Symlinking /home/vinayaka/project_ws/devel/share/hector_quadrotor_interface/cmake/hector_quadrotor_interfaceConfig-version.cmake
+Symlinking /home/vinayaka/project_ws/devel/share/hector_quadrotor_interface/cmake/hector_quadrotor_interfaceConfig.cmake

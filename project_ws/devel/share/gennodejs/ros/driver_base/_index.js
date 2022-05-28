@@ -1,0 +1,1 @@
+/home/vinayaka/project_ws/devel/.private/driver_base/share/gennodejs/ros/driver_base/_index.js

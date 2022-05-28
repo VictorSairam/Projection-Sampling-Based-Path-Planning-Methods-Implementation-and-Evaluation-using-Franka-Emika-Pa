@@ -1,0 +1,1 @@
+/home/vinayaka/project_ws/devel/.private/driver_base/share/roseus/ros/driver_base/msg/ConfigString.l

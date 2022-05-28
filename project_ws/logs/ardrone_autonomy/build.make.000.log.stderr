@@ -1,0 +1,19 @@
+Cloning into 'ardronelib'...
+fatal: remote error: 
+  The unauthenticated git protocol on port 9418 is no longer supported.
+Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
+Cloning into 'ardronelib'...
+fatal: remote error: 
+  The unauthenticated git protocol on port 9418 is no longer supported.
+Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
+Cloning into 'ardronelib'...
+fatal: remote error: 
+  The unauthenticated git protocol on port 9418 is no longer supported.
+Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
+CMake Error at /home/vinayaka/project_ws/devel/.private/ardrone_autonomy/tmp/ardronelib-gitclone.cmake:40 (message):
+  Failed to clone repository: 'git://github.com/AutonomyLab/ardronelib.git'
+
+
+make[2]: *** [/home/vinayaka/project_ws/devel/.private/ardrone_autonomy/src/ardronelib-stamp/ardronelib-download] Error 1
+make[1]: *** [CMakeFiles/ardronelib.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/vinayaka/project_ws/devel/.private/hector_nav_msgs/share/gennodejs/ros/hector_nav_msgs/srv/GetRobotTrajectory.js

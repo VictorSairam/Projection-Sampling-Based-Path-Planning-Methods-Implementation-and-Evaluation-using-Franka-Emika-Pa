@@ -1,0 +1,5 @@
+Symlinking /home/vinayaka/project_ws/devel/lib/libhector_quadrotor_propulsion.so
+Symlinking /home/vinayaka/project_ws/devel/lib/libhector_quadrotor_aerodynamics.so
+Symlinking /home/vinayaka/project_ws/devel/lib/pkgconfig/hector_quadrotor_model.pc
+Symlinking /home/vinayaka/project_ws/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig-version.cmake
+Symlinking /home/vinayaka/project_ws/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig.cmake

@@ -1,0 +1,1 @@
+/home/vinayaka/project_ws/devel/.private/driver_base/share/common-lisp/ros/driver_base/msg/ConfigString.lisp

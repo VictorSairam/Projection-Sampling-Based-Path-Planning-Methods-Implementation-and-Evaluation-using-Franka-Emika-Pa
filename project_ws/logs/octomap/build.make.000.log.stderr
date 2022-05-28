@@ -1,0 +1,280 @@
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeNode.h:37:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/AbstractOccupancyOcTree.h:39[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:35[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:42:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/Pointcloud.h:39:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/Pointcloud.cpp:52[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/Pointcloud.h:39:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/ScanGraph.h:41[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/ScanGraph.cpp:40[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeNode.h:37:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/AbstractOccupancyOcTree.h:39[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:35[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:[m[K In member function ‘[01m[Kbool octomap::AbstractOccupancyOcTree::readBinary(std::istream&)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:92:[m[K [01;31m[Kerror: [m[KISO C++98 does not support the ‘[01m[Kz[m[K’ gnu_printf length modifier [-Werror=format=]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                                                                                            ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:173:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KOCTOMAP_ERROR[m[K’
+       OCTOMAP_ERROR("Tree size mismatch: # read nodes (%zu) != # expected nodes (%d)\n",this->size(), size);
+[01;32m[K       ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:44:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBase.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/CountingOcTree.h:39[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/CountingOcTree.cpp:35[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:44:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:251:19:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     unsigned long long memoryFullGrid() const;
+[01;32m[K                   ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:573:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:44[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Kstd::istream& octomap::OcTreeBaseImpl<NODE, INTERFACE>::readNodesRecurs(NODE*, std::istream&)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:830:45:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> children ((unsigned long long) children_char);
+[01;32m[K                                             ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K At global scope:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:850:17:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+   unsigned long long OcTreeBaseImpl<NODE,I>::memoryFullGrid() const{
+[01;32m[K                 ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Klong long unsigned int octomap::OcTreeBaseImpl<NODE, INTERFACE>::memoryFullGrid() const[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:862:27:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     return (unsigned long long)((size_x/resolution) * (size_y/resolution) * (size_z/resolution)
+[01;32m[K                           ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:506:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:[m[K In member function ‘[01m[Kstd::istream& octomap::OccupancyOcTreeBase<NODE>::readBinaryNode(std::istream&, NODE*)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:969:46:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> child1to4 ((unsigned long long) child1to4_char);
+[01;32m[K                                              ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:970:46:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> child5to8 ((unsigned long long) child5to8_char);
+[01;32m[K                                              ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:42:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/OcTree.cpp:34[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBase.h:38:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/CountingOcTree.h:39[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/CountingOcTree.cpp:35[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:251:19:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     unsigned long long memoryFullGrid() const;
+[01;32m[K                   ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:573:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBase.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/CountingOcTree.h:39[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/CountingOcTree.cpp:35[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Kstd::istream& octomap::OcTreeBaseImpl<NODE, INTERFACE>::readNodesRecurs(NODE*, std::istream&)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:830:45:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> children ((unsigned long long) children_char);
+[01;32m[K                                             ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K At global scope:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:850:17:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+   unsigned long long OcTreeBaseImpl<NODE,I>::memoryFullGrid() const{
+[01;32m[K                 ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Klong long unsigned int octomap::OcTreeBaseImpl<NODE, INTERFACE>::memoryFullGrid() const[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:862:27:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     return (unsigned long long)((size_x/resolution) * (size_y/resolution) * (size_z/resolution)
+[01;32m[K                           ^[m[K
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap-static.dir/AbstractOccupancyOcTree.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:44:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/OcTree.cpp:34[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:251:19:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     unsigned long long memoryFullGrid() const;
+[01;32m[K                   ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:573:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:44[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/OcTree.cpp:34[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Kstd::istream& octomap::OcTreeBaseImpl<NODE, INTERFACE>::readNodesRecurs(NODE*, std::istream&)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:830:45:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> children ((unsigned long long) children_char);
+[01;32m[K                                             ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K At global scope:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:850:17:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+   unsigned long long OcTreeBaseImpl<NODE,I>::memoryFullGrid() const{
+[01;32m[K                 ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Klong long unsigned int octomap::OcTreeBaseImpl<NODE, INTERFACE>::memoryFullGrid() const[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:862:27:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     return (unsigned long long)((size_x/resolution) * (size_y/resolution) * (size_z/resolution)
+[01;32m[K                           ^[m[K
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap-static.dir/Pointcloud.cpp.o] Error 1
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:506:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/OcTree.cpp:34[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:[m[K In member function ‘[01m[Kstd::istream& octomap::OccupancyOcTreeBase<NODE>::readBinaryNode(std::istream&, NODE*)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:969:46:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> child1to4 ((unsigned long long) child1to4_char);
+[01;32m[K                                              ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:970:46:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> child5to8 ((unsigned long long) child5to8_char);
+[01;32m[K                                              ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:42:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeNode.h:37:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/AbstractOccupancyOcTree.h:39[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:35[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:69:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG(...)       (void)0
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:70:31:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+     #define OCTOMAP_DEBUG_STR(...)   (void)0
+[01;32m[K                               ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:76:27:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_WARNING(...)      fprintf(stderr, "WARNING: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                           ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:25:[m[K [01;31m[Kerror: [m[Kanonymous variadic macros were introduced in C++11 [-Werror=variadic-macros]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:44:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:251:19:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     unsigned long long memoryFullGrid() const;
+[01;32m[K                   ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeNode.h:37:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/AbstractOccupancyOcTree.h:39[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:35[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:[m[K In member function ‘[01m[Kbool octomap::AbstractOccupancyOcTree::readBinary(std::istream&)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/octomap_types.h:78:92:[m[K [01;31m[Kerror: [m[KISO C++98 does not support the ‘[01m[Kz[m[K’ gnu_printf length modifier [-Werror=format=]
+   #define OCTOMAP_ERROR(...)        fprintf(stderr, "ERROR: "), fprintf(stderr, __VA_ARGS__), fflush(stderr)
+[01;32m[K                                                                                            ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOccupancyOcTree.cpp:173:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KOCTOMAP_ERROR[m[K’
+       OCTOMAP_ERROR("Tree size mismatch: # read nodes (%zu) != # expected nodes (%d)\n",this->size(), size);
+[01;32m[K       ^[m[K
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.h:573:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:44[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Kstd::istream& octomap::OcTreeBaseImpl<NODE, INTERFACE>::readNodesRecurs(NODE*, std::istream&)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:830:45:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> children ((unsigned long long) children_char);
+[01;32m[K                                             ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K At global scope:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:850:17:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+   unsigned long long OcTreeBaseImpl<NODE,I>::memoryFullGrid() const{
+[01;32m[K                 ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:[m[K In member function ‘[01m[Klong long unsigned int octomap::OcTreeBaseImpl<NODE, INTERFACE>::memoryFullGrid() const[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTreeBaseImpl.hxx:862:27:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     return (unsigned long long)((size_x/resolution) * (size_y/resolution) * (size_z/resolution)
+[01;32m[K                           ^[m[K
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap-static.dir/AbstractOcTree.cpp.o] Error 1
+In file included from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.h:506:0[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OcTree.h:38[m[K,
+                 from [01m[K/home/vinayaka/project_ws/src/octomap/octomap/src/AbstractOcTree.cpp:36[m[K:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:[m[K In member function ‘[01m[Kstd::istream& octomap::OccupancyOcTreeBase<NODE>::readBinaryNode(std::istream&, NODE*)[m[K’:
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:969:46:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> child1to4 ((unsigned long long) child1to4_char);
+[01;32m[K                                              ^[m[K
+[01m[K/home/vinayaka/project_ws/src/octomap/octomap/include/octomap/OccupancyOcTreeBase.hxx:970:46:[m[K [01;31m[Kerror: [m[KISO C++ 1998 does not support ‘[01m[Klong long[m[K’ [-Werror=long-long]
+     std::bitset<8> child5to8 ((unsigned long long) child5to8_char);
+[01;32m[K                                              ^[m[K
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap-static.dir/ScanGraph.cpp.o] Error 1
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap.dir/AbstractOccupancyOcTree.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap.dir/AbstractOcTree.cpp.o] Error 1
+make[1]: *** [src/CMakeFiles/octomap.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap-static.dir/CountingOcTree.cpp.o] Error 1
+cc1plus: all warnings being treated as errors
+make[2]: *** [src/CMakeFiles/octomap-static.dir/OcTree.cpp.o] Error 1
+make[1]: *** [src/CMakeFiles/octomap-static.dir/all] Error 2
+make: *** [all] Error 2

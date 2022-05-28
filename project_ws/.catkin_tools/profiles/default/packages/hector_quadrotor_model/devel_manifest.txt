@@ -1,0 +1,7 @@
+hector_quadrotor/hector_quadrotor_model
+/home/vinayaka/project_ws/devel/.private/hector_quadrotor_model/cmake.lock /home/vinayaka/project_ws/devel/./cmake.lock
+/home/vinayaka/project_ws/devel/.private/hector_quadrotor_model/lib/libhector_quadrotor_propulsion.so /home/vinayaka/project_ws/devel/lib/libhector_quadrotor_propulsion.so
+/home/vinayaka/project_ws/devel/.private/hector_quadrotor_model/lib/libhector_quadrotor_aerodynamics.so /home/vinayaka/project_ws/devel/lib/libhector_quadrotor_aerodynamics.so
+/home/vinayaka/project_ws/devel/.private/hector_quadrotor_model/lib/pkgconfig/hector_quadrotor_model.pc /home/vinayaka/project_ws/devel/lib/pkgconfig/hector_quadrotor_model.pc
+/home/vinayaka/project_ws/devel/.private/hector_quadrotor_model/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig-version.cmake /home/vinayaka/project_ws/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig-version.cmake
+/home/vinayaka/project_ws/devel/.private/hector_quadrotor_model/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig.cmake /home/vinayaka/project_ws/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig.cmake

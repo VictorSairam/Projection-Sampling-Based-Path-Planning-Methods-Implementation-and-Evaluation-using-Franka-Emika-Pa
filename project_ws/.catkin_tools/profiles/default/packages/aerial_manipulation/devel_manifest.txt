@@ -1,0 +1,9 @@
+Aerial-Manipulator-Gazebo
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/cmake.lock /home/vinayaka/project_ws/devel/./cmake.lock
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/lib/libgear_pub.so /home/vinayaka/project_ws/devel/lib/libgear_pub.so
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/lib/libcontrol_plugin.so /home/vinayaka/project_ws/devel/lib/libcontrol_plugin.so
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/lib/aerial_manipulation/kinova_tele /home/vinayaka/project_ws/devel/lib/aerial_manipulation/kinova_tele
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/lib/aerial_manipulation/harrier_tele /home/vinayaka/project_ws/devel/lib/aerial_manipulation/harrier_tele
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/lib/pkgconfig/aerial_manipulation.pc /home/vinayaka/project_ws/devel/lib/pkgconfig/aerial_manipulation.pc
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/share/aerial_manipulation/cmake/aerial_manipulationConfig.cmake /home/vinayaka/project_ws/devel/share/aerial_manipulation/cmake/aerial_manipulationConfig.cmake
+/home/vinayaka/project_ws/devel/.private/aerial_manipulation/share/aerial_manipulation/cmake/aerial_manipulationConfig-version.cmake /home/vinayaka/project_ws/devel/share/aerial_manipulation/cmake/aerial_manipulationConfig-version.cmake

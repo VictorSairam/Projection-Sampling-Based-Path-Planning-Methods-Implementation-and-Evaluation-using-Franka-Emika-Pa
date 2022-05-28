@@ -1,0 +1,4 @@
+[ 25%] Built target harrier_tele
+[ 50%] Built target kinova_tele
+[ 75%] Built target gear_pub
+[100%] Built target control_plugin
