@@ -16,7 +16,7 @@ This file explains how to perform path planning using PRM, OBPRM, CBiRRT and RRT
 
 (NOTE: To reuse graph created in PRM and OBPRM, run "python3 path_plan.py --<algorithm> --<map_name> --reuse_graph.)
 
-# Octomap based mapping:
+# Octomap based mapping: For this, an author of a git repo provided the mechanical design of the Aerial manipulator and a simulator and rotors simulator was used as the simulator.
   
 To perform the mapping using the Harrier D7 and Kinova arm, copy the src file from the project_ws into your wokspace.
 Do:
